@@ -1,0 +1,67 @@
+.header {
+  min-width: 400px;
+  position: absolute;
+  background-color: none;
+  width: auto;
+  top: 0;
+  font-size: 16px;
+  align-self: center;
+}
+
+.header-nav {
+  vertical-align: baseline;
+  line-height: 36px;
+  margin: auto;
+}
+
+.header-nav-item {
+  list-style: none;
+  padding: 10px 10px;
+  margin: 0;
+  display: inline-block;
+}
+
+.header-nav-link {
+  text-decoration: none;
+  color: brown;
+  font-weight: bold;
+}
+
+.intro {
+  min-width: 400px;
+  height: 300px;
+  border-radius: 15px 15px;
+  background: url(/../img/intro.jpg) center/cover no-repeat;
+}
+
+.image {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.pay .image {
+  margin-right: 0;
+  width: 170px;
+  vertical-align: middle;
+}
+
+.button {
+  margin-top: 10px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.input {
+  margin-bottom: 10px;
+  height: 20px;
+}
