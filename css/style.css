@@ -65,3 +65,7 @@
   margin-bottom: 10px;
   height: 20px;
 }
+
+.parallax-window {
+  background: transparent;
+}
