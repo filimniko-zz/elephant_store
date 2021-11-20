@@ -35,10 +35,11 @@
 }
 
 .image {
-  width: 100px;
+  height: 100px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 10px;
 }
 
 .center {
@@ -47,7 +48,7 @@
 
 .pay .image {
   margin-right: 0;
-  width: 180px;
+  height: 150px;
   vertical-align: middle;
 }
 
@@ -68,4 +69,8 @@
 
 .parallax-window {
   background: transparent;
+}
+
+label, input {
+  display: block;
 }
