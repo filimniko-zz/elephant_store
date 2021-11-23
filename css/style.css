@@ -73,4 +73,17 @@
 
 label, input {
   display: block;
+  width: 50%;
+  min-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form {
+  width: 80%;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  font-size: 16px;
 }
